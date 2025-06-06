@@ -1,2 +1,2 @@
 # Practica
-Paractica para Parcial Progra 3
+Practica para Parcial Progra 3
